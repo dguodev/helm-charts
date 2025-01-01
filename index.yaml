@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   base:
   - apiVersion: v2
+    appVersion: 1.22.0
+    created: "2025-01-01T02:06:29.850923-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 2f3c10bdf166b6f56aae3ae8b3a280e3521d0ff86d4249075d6f0c35cb57649c
+    name: base
+    type: application
+    urls:
+    - charts/base-0.12.0.tgz
+    version: 0.12.0
+  - apiVersion: v2
     appVersion: 1.21.0
-    created: "2025-01-01T02:01:14.560001-05:00"
+    created: "2025-01-01T02:06:29.850445-05:00"
     description: A Helm chart for Kubernetes
     digest: ded09cedeeaa4caebd50ef0efbe36f9ae5ba23ca7e4cc1423249ba33a758611c
     name: base
@@ -13,7 +23,7 @@ entries:
     version: 0.11.0
   - apiVersion: v2
     appVersion: 1.20.0
-    created: "2025-01-01T02:01:14.559476-05:00"
+    created: "2025-01-01T02:06:29.849744-05:00"
     description: A Helm chart for Kubernetes
     digest: 9d537fc1a3258341b20a2de84883e750bd9bb030d2b12f9ffb41057f45f38889
     name: base
@@ -23,7 +33,7 @@ entries:
     version: 0.10.0
   - apiVersion: v2
     appVersion: 1.20.0
-    created: "2025-01-01T02:01:14.563192-05:00"
+    created: "2025-01-01T02:06:29.853065-05:00"
     description: A Helm chart for Kubernetes
     digest: 217a24e78579b3e20dd4acb412f1a81f367895a78338d8a5810e38835209170e
     name: base
@@ -33,7 +43,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 1.19.0
-    created: "2025-01-01T02:01:14.561709-05:00"
+    created: "2025-01-01T02:06:29.852312-05:00"
     description: A Helm chart for Kubernetes
     digest: 24aa17f72675ec768ac67ddc4fdf239115d328948038bdc75a36b3a578e651b2
     name: base
@@ -43,7 +53,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-01-01T02:01:14.560918-05:00"
+    created: "2025-01-01T02:06:29.851625-05:00"
     description: A Helm chart for Kubernetes
     digest: d787b6649d89f9a9db7a89dd6e5adaf48ea2503923f50faee7e6288d3699ea82
     name: base
@@ -53,7 +63,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-01-01T02:01:14.558947-05:00"
+    created: "2025-01-01T02:06:29.849032-05:00"
     description: A Helm chart for Kubernetes
     digest: 5ad0a11f9368f2da8cb4e50b8b44e2892ccb12af8e63159d97307da0bf9669d9
     name: base
@@ -61,4 +71,4 @@ entries:
     urls:
     - charts/base-0.1.0.tgz
     version: 0.1.0
-generated: "2025-01-01T02:01:14.558068-05:00"
+generated: "2025-01-01T02:06:29.847955-05:00"
